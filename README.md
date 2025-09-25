@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Lenganji!
 
-<!--
-**thereallengman/thereallengman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Learning Front-End Development
+<br>
+💻 Learning JavaScript, React & Node.js
+<br>
+🌱 Documenting my coding journey here on GitHub — wanna take a look?
 
-Here are some ideas to get you started:
+### About me
+🐶 Dog Lover & 📷 Passionate about Photography
+<br>
+🌍 Curious by nature, always exploring and learning
+<br>
+✨ One step at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m up to
+🧑‍🎓 Attending classes & building projects
+<br>
+🐙 Learning in public and sharing my progress along the way
